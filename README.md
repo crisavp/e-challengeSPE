@@ -1,6 +1,6 @@
 # E-challenge - Prediction Models for Historical Data of ESP Patterns
 
-This project contains all the material, data, code an solutions of the E-challenge Machine Learning Contest organized by the SPE Ecuador Section on 2021, it is released under CC BY-NC-SA 4.0 license rights only for academic purposes. 
+This project contains all the material, data, code an solutions of the E-challenge Machine Learning Contest organized by the SPE Ecuador Section on 2021, it is released under CC BY-NC-SA 4.0 license, only for academic purposes. 
 
 ## Description
 
