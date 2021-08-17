@@ -33,7 +33,7 @@ For more information refer to: [https://www.spe-ecuador.org/e-challenge-machine-
 
 ## License
 CC BY-NC-SA 4.0.
-- For more information refer to: [https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1](url)
+- For more information refer to: [https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1](url) and
 [https://www.spe-ecuador.org/e-challenge-machine-learning-version](url) 
 
 ## Project status
