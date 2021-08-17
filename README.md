@@ -29,11 +29,12 @@ For the model submission stage, only participants will be requested to share the
 
 ## Authors and acknowledgment
 SPE Ecuador Section as organizer of the contest and Schlumberger as the main sponsor.
-For more information refer to: [https://www.spe-ecuador.org/e-challenge-machine-learning-version](url) in the CONTENT Tab.
+For more information refer to: [https://www.spe-ecuador.org/e-challenge-machine-learning-version](url) 
 
 ## License
 CC BY-NC-SA 4.0.
-For more information refer to: [https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1](url)
+- For more information refer to: [https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1](url)
+[https://www.spe-ecuador.org/e-challenge-machine-learning-version](url) 
 
 ## Project status
 Model Submissions
