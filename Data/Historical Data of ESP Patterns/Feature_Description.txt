@@ -12,7 +12,7 @@ High Frequency Data
 - Vibration: 
 	Normal Range Values lie between 0 - 0.8
 	Sensor shows alerts when tren is up
-	Values over 1 could mean wrong information (noise) or damage in the pumps
+	Values over 10 could mean wrong information (noise) or damage in the pumps
 	Outliers in the readings mean piezoelectric is damaged
 	
 
@@ -31,6 +31,6 @@ Production Data
 - PROF_INTAKE(ft): Intake Depth 
 - AMPERAGE: Current
 - PUMP: Pump name
-- PSI_CAB: Cavitation pressure
+- PSI_CAB: Well Head Pressure
 
 
