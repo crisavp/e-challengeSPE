@@ -31,6 +31,6 @@ Production Data
 - PROF_INTAKE(ft): Intake Depth 
 - AMPERAGE: Current
 - PUMP: Pump name
-- PSI_CAB: Well Head Pressure
+- PSI_CAB: Wellhead Pressure
 
 
